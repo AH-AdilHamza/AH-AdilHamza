@@ -1,4 +1,4 @@
-[![MasterHead](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif)]
+![MasterHead](https://www.shehala.com/public/frontend/images/webdevelopment.jpg)
 <h1 align="center">Hi 👋, I'm Adil Hamza</h1>
 <h3 align="center">A frontend web developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">

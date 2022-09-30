@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/প্রোগ্রামিংয়ের গ্যালাক্সি - galaxy of programming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="প্রোগ্রামিংয়ের গ্যালাক্সি - galaxy of programming" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCH8uVyWp5ieI3SZ4p5cDFw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="প্রোগ্রামিংয়ের গ্যালাক্সি - galaxy of programming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

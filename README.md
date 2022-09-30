@@ -1,6 +1,10 @@
 ![MasterHead](https://www.shehala.com/public/frontend/images/webdevelopment.jpg)
 <h1 align="center">Hi 👋, I'm Adil Hamza</h1>
 <h3 align="center">A frontend web developer from Bangladesh.</h3>
+<br>
+<br>
+<br>
+<br>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 - 🌱 I’m currently learning **Javascript**
@@ -8,6 +12,13 @@
 - 💬 Ask me about **HTML5, CSS3**
 
 - 📫 How to reach me **resanhamza220@gmail.com**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
